@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis
 
 ## Project Overview
 Tom, a Colorado Board of Election Employee, needs to complete an audit of the results of a recent local congressional election in Colorado. The votes are from three counties cast to three candidates. With some assistance, he needs to write a script in python for analyzing the data.
