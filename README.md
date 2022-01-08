@@ -140,7 +140,7 @@ for row in reader:
 
 - The county of **Denver** had the largest turnout.
 
-[Screenshot]
+![County_Results](https://github.com/Nusratnimme/Election_Analysis/blob/main/Resources/County_Results.png)
 
 - Results of the candidates were:
 
@@ -154,10 +154,11 @@ for row in reader:
     - Winning vote Count: 272,892
     - Winning vote percentage: 73.8%
 
-[Screenshot]
+![Candidate_Results](https://github.com/Nusratnimme/Election_Analysis/blob/main/Resources/Candidate_Results.png)
 
+- Election-Audit Results
 
-[Screenshot]
+![Election_Audit_Results](https://github.com/Nusratnimme/Election_Analysis/blob/main/Resources/Final_Election_Results.png)
 
 ## Election-Audit Summary
 It is possible to make the script used to do this analysis more generic to analyze any election data.
