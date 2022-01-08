@@ -168,9 +168,9 @@ Below are the hardcoded assumptions in this script:
 - that the first row is the header;
 - that second and third fields contain the county and candidate name, respectively.
 
-To enable the script to analyse any election data, we need to add questions or instructions in the script about the file name and path, the separator, whether it has a header, and which columns (titles or positions) contain county and candidate name.
+To enable the script to analyse any election data, we need to add questions or instructions in the script about the file name and path, the delimeter, whether it has a header, and which columns (titles or positions) contain county and candidate name.
 
-For example, the user can be asked to save the file in the same folder as the script, provide file name separator which can be used later to read the file as below:
+For example, the user can be asked to save the file in the same folder as the script, provide file name and delimeter which can be used later to read the file as below:
 
 ```
 print("Please save the data file in the same folder as this script.")
