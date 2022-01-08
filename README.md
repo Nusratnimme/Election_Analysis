@@ -17,7 +17,7 @@ The purpose of this analysis is to audit the tabulated results for a US congress
 - The county with the highest voter turnout;
 - The winning candidate.
 
-## Algorithm
+## Analyses
 
 **Creating variables, list and dictionaries to store results:** using some dependenies, the election data was imported to Python and a text file was opened to save the results of the analyses. Next, a variable to count total votes, and lists and dictionaries for candidates and counties were created to hold vote counts, percentages, etc. Variables were also created to determine the winning candidate, winning vote count and percentage, as well as vote counts by county and largest county by voter turnout.
 
